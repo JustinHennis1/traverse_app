@@ -1,0 +1,72 @@
+N,City,State,Latitude,Longitude,filename
+1,Albany,New York,42.6526,-73.7562,albany_bnb.csv
+2,Asheville,North Carolina,35.5951,-82.5515,asheville_bnb.csv
+3,Austin,Texas,30.2672,-97.7431,austin_bnb.csv
+4,Boston,Massachusetts,42.3601,-71.0589,boston_bnb.csv
+5,Bozeman,Montana,45.677,-111.0429,bozeman_bnb.csv
+6,Broward County,Florida,26.1901,-80.3659,broward_county_bnb.csv
+7,Cambridge,Massachusetts,42.3736,-71.1097,cambridge_bnb.csv
+8,Chicago,Illinois,41.8781,-87.6298,chicago_bnb.csv
+9,Clark County,Nevada,36.0796,-115.094,clark_county_bnb.csv
+10,Columbus,Ohio,39.9612,-82.9988,columbus_bnb.csv
+11,Dallas,Texas,32.7767,-96.797,dallas_bnb.csv
+12,Denver,Colorado,39.7392,-104.9903,denver_bnb.csv
+13,Fort Worth,Texas,32.7555,-97.3308,fort_worth_bnb.csv
+14,Honolulo,Hawaii,20.7984,-156.3319,honolulo_bnb.csv
+15,Jersey City,New Jersey,40.7178,-74.0431,jersey_city_bnb.csv
+16,Los Angeles,California,34.0522,-118.2437,los_angeles_bnb.csv
+17,Nashville,Tennessee,36.1627,-86.7816,nashville_bnb.csv
+18,New Orleans,Louisiana,29.9511,-90.0715,new_orleans_bnb.csv
+19,New York City,New York,40.7128,-74.006,new_york_city_bnb.csv
+20,Newark,New Jersey,40.7357,-74.1724,newark_bnb.csv
+21,Oakland,California,37.8044,-122.2712,oakland_bnb.csv
+22,Pacific Grove,California,36.6177,-121.9166,pacific_grove_bnb.csv
+23,Portland,Oregon,45.5051,-122.675,portland_bnb.csv
+24,Rhode Island,Rhode Island,41.5801,-71.4774,rhode_island_bnb.csv
+25,Rochester,New York,43.1566,-77.6088,rochester_bnb.csv
+26,Salem,Oregon,44.9429,-123.0351,salem_bnb.csv
+27,San Diego,California,32.7157,-117.1611,san_diego_bnb.csv
+28,San Francisco,California,37.7749,-122.4194,san_francisco_bnb.csv
+29,San Mateo County,California,37.4337,-122.4014,san_mateo_county_bnb.csv
+30,Santa Clara County,California,37.3337,-121.8907,santa_clara_county_bnb.csv
+31,Santa Cruz County,California,36.9741,-122.0308,santa_cruz_county_bnb.csv
+32,Seattle,Washington,47.6062,-122.3321,seattle_bnb.csv
+33,Twin Cities MSA,Minnesota,44.9778,-93.265,twin_cities_msa_bnb.csv
+34,Washington,D.C,38.9072,-77.0369,washington_dc_bnb.csv
+35,Miami,Florida,25.7617,-80.1918,
+36,Orlando,Florida,28.5384,-81.3789,
+37,Las Vegas,Nevada,36.1699,-115.1398,
+38,New York,New York,40.7128,-74.006,
+39,Houston,Texas,29.7604,-95.3698,
+40,Phoenix,Arizona,33.4484,-112.074,
+41,Philadelphia,Pennsylvania,39.9526,-75.1652,
+42,San Antonio,Texas,29.4241,-98.4936,
+43,Jacksonville,Florida,30.3322,-81.6557,
+44,San Jose,California,37.3382,-121.8863,
+45,Charlotte,North Carolina,35.2271,-80.8431,
+46,Indianapolis,Indiana,39.7684,-86.1581,
+47,Oklahoma City,Oklahoma,35.4676,-97.5164,
+48,El Paso,Texas,31.7619,-106.485,
+49,Washington,District of Columbia,38.9072,-77.0369,
+50,Louisville,Kentucky,38.2527,-85.7585,
+51,Memphis,Tennessee,35.1495,-90.049,
+52,Detroit,Michigan,42.3314,-83.0458,
+53,Albuquerque,New Mexico,35.0844,-106.6504,
+54,Baltimore,Maryland,39.2904,-76.6122,
+55,Tucson,Arizona,32.2226,-110.9747,
+56,Milwaukee,Wisconsin,43.0389,-87.9065,
+57,Fresno,California,36.7378,-119.7871,
+58,Sacramento,California,38.5816,-121.4944,
+59,Mesa,Arizona,33.4152,-111.8315,
+60,Kansas City,Missouri,39.0997,-94.5786,
+61,Atlanta,Georgia,33.749,-84.388,
+62,Colorado Springs,Colorado,38.8339,-104.8214,
+63,Raleigh,North Carolina,35.7796,-78.6382,
+64,Omaha,Nebraska,41.2565,-95.9345,
+65,Virginia Beach,Virginia,36.8529,-75.978,
+66,Long Beach,California,33.7701,-118.1937,
+67,Minneapolis,Minnesota,44.9778,-93.265,
+68,Bakersfield,California,35.3733,-119.0187,
+69,Tulsa,Oklahoma,36.15398,-95.992775,
+70,Tampa,Florida,27.9506,-82.4572,
+71,Aurora,Colorado,39.7294,-104.8319,

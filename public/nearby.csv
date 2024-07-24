@@ -1,0 +1,31 @@
+Index,City,State,Name,Address,Type,Rating,Total Ratings,Latitude,Longitude,Itinerary Category
+1,Dix Hills,New York,Texas Roadhouse,"502 Commack Road, Deer Park","Restaurant, Food, Point Of Interest, Establishment",4.3,4113,40.7664826,-73.31146489999999,Food
+2,Dix Hills,New York,Miller's Ale House,"1800 The Arches Circle, Deer Park","Restaurant, Meal Takeaway, Bar, Food, Point Of Interest, Establishment",4.3,2757,40.7624607,-73.30691209999999,Food
+3,Dix Hills,New York,Sonic Drive-In,"1380 Deer Park Avenue, North Babylon","Restaurant, Food, Point Of Interest, Establishment",4.3,2740,40.7436467,-73.32258829999999,Food
+4,Dix Hills,New York,Blackstone Steakhouse,"10 Pinelawn Road, Melville","Restaurant, Food, Point Of Interest, Establishment",4.5,2402,40.7879724,-73.4141297,Food
+5,Dix Hills,New York,Peter Pan Diner,"999 Sunrise Highway, Bay Shore","Restaurant, Food, Point Of Interest, Establishment",4.4,2375,40.7311706,-73.2729353,Food
+6,Dix Hills,New York,McDonald's,"1484 5th Avenue, Bay Shore","Cafe, Store, Restaurant, Food, Point Of Interest, Establishment",3.9,2173,40.7505406,-73.2637694,Food
+7,Dix Hills,New York,Premier Diner Commack,"690 Commack Road, Commack","Meal Takeaway, Cafe, Restaurant, Food, Point Of Interest, Establishment",4.3,2052,40.8062616,-73.2939645,Food
+8,Dix Hills,New York,Premier Diner Commack,"690 Commack Road, Commack","Meal Takeaway, Cafe, Restaurant, Food, Point Of Interest, Establishment",4.3,2052,40.8062616,-73.2939645,Food
+9,Dix Hills,New York,Outback Steakhouse,"216 Jericho Turnpike, Commack","Meal Takeaway, Bar, Restaurant, Food, Point Of Interest, Establishment",4.6,1922,40.8447622,-73.2726224,Food
+10,Dix Hills,New York,Olympic Diner,"1536 Deer Park Avenue, Deer Park","Restaurant, Food, Point Of Interest, Establishment",4.2,1733,40.7504394,-73.3254122,Food
+11,Dix Hills,New York,Belmont Lake State Park,"625 Belmont Avenue, West Babylon","Tourist Attraction, Park, Point Of Interest, Establishment",4.6,4059,40.7363169,-73.3403275,Tourist Attraction
+12,Dix Hills,New York,Belmont Lake State Park,"625 Belmont Avenue, West Babylon","Tourist Attraction, Park, Point Of Interest, Establishment",4.6,4059,40.7363169,-73.3403275,Tourist Attraction
+13,Dix Hills,New York,Blydenburgh County Park,"Veteran's Memorial Highway, Smithtown","Park, Tourist Attraction, Point Of Interest, Establishment",4.6,1234,40.8367574,-73.2210216,Tourist Attraction
+14,Dix Hills,New York,Blydenburgh County Park,"Veteran's Memorial Highway, Smithtown","Park, Tourist Attraction, Point Of Interest, Establishment",4.6,1234,40.8367574,-73.2210216,Tourist Attraction
+15,Dix Hills,New York,Brentwood State Park,"375 Crooked Hill Road, Brentwood","Tourist Attraction, Park, Point Of Interest, Establishment",4.3,770,40.78975020000001,-73.26947559999999,Tourist Attraction
+16,Dix Hills,New York,Brentwood State Park,"375 Crooked Hill Road, Brentwood","Tourist Attraction, Park, Point Of Interest, Establishment",4.3,770,40.78975020000001,-73.26947559999999,Tourist Attraction
+17,Dix Hills,New York,Hoyt Farm Nature Preserve,"200 New Highway, Commack","Park, Tourist Attraction, Point Of Interest, Establishment",4.7,653,40.82276009999999,-73.2709447,Tourist Attraction
+18,Dix Hills,New York,Hoyt Farm Nature Preserve,"200 New Highway, Commack","Park, Tourist Attraction, Point Of Interest, Establishment",4.7,653,40.82276009999999,-73.2709447,Tourist Attraction
+19,Dix Hills,New York,Geiger Park,"Grand Boulevard, Deer Park","Park, Tourist Attraction, Point Of Interest, Establishment",4.5,623,40.7531718,-73.3494766,Tourist Attraction
+20,Dix Hills,New York,Geiger Park,"Grand Boulevard, Deer Park","Park, Tourist Attraction, Point Of Interest, Establishment",4.5,623,40.7531718,-73.3494766,Tourist Attraction
+21,Dix Hills,New York,Tanger Outlets Deer Park,"152 The Arches Circle, Deer Park","Shopping Mall, Point Of Interest, Establishment",4.5,12705,40.7630521,-73.3062812,Shopping
+22,Dix Hills,New York,South Shore Mall,"1701 Sunrise Highway, Bay Shore","Shopping Mall, Point Of Interest, Establishment",4.2,5967,40.7396299,-73.2464514,Shopping
+23,Dix Hills,New York,Walt Whitman Shops,"160 Walt Whitman Road, Huntington Station","Shopping Mall, Point Of Interest, Establishment",4.3,3703,40.82226139999999,-73.4101721,Shopping
+24,Dix Hills,New York,Gardiner Manor Mall,"834 Sunrise Highway, Bay Shore","Shopping Mall, Point Of Interest, Establishment",4.3,1864,40.72748240000001,-73.2784713,Shopping
+25,Dix Hills,New York,Sunset Plaza Shopping Center,"1112-1238, Deer Park Avenue, North Babylon","Shopping Mall, Point Of Interest, Establishment",4.2,1700,40.7366898,-73.32139939999999,Shopping
+26,Dix Hills,New York,Commack South Shopping Center,"Henry Street, Commack","Shopping Mall, Point Of Interest, Establishment",4.5,1556,40.80657290000001,-73.2881209,Shopping
+27,Dix Hills,New York,Market at Bay Shore,"1851 Sunrise Highway, Bay Shore","Shopping Mall, Point Of Interest, Establishment",4.3,1464,40.7401792,-73.23677959999999,Shopping
+28,Dix Hills,New York,Melville Mall,"834 Walt Whitman Road, Melville","Shopping Mall, Point Of Interest, Establishment",4.4,1083,40.7985485,-73.4101798,Shopping
+29,Dix Hills,New York,Huntington Shopping Center,"350 Walt Whitman Road, Huntington","Shopping Mall, Point Of Interest, Establishment",4.3,944,40.81734100000001,-73.4090834,Shopping
+30,Dix Hills,New York,Huntington Square,"4000 Jericho Turnpike, East Northport","Shopping Mall, Point Of Interest, Establishment",4.2,791,40.839095,-73.3153249,Shopping

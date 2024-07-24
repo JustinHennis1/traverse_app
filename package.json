@@ -8,7 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.45"
+    "@tabler/icons-vue": "^3.11.0",
+    "bootstrap": "^5.3.3",
+    "leaflet": "^1.9.4",
+    "papaparse": "^5.4.1",
+    "tabler": "^1.0.0-alpha.8",
+    "vue": "^3.4.33"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
