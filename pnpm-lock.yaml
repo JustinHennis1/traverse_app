@@ -29,10 +29,10 @@ importers:
     devDependencies:
       '@vitejs/plugin-vue':
         specifier: ^4.0.0
-        version: 4.6.2(vite@4.5.3)(vue@3.4.33)
+        version: 4.6.2(vite@4.5.5)(vue@3.4.33)
       vite:
-        specifier: ^4.1.0
-        version: 4.5.3
+        specifier: ^4.5.5
+        version: 4.5.5
 
 packages:
 
@@ -516,8 +516,8 @@ packages:
   tslib@2.6.3:
     resolution: {integrity: sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==}
 
-  vite@4.5.3:
-    resolution: {integrity: sha512-kQL23kMeX92v3ph7IauVkXkikdDRsYMGTVl5KY2E9OY4ONLvkHf04MDTbnfo6NKxZiDLWzVpP5oTa8hQD8U3dg==}
+  vite@4.5.5:
+    resolution: {integrity: sha512-ifW3Lb2sMdX+WU91s3R0FyQlAyLxOzCSCP37ujw0+r5POeHPwe6udWVIElKQq8gk3t7b8rkmvqC6IHBpCff4GQ==}
     engines: {node: ^14.18.0 || >=16.0.0}
     hasBin: true
     peerDependencies:
@@ -682,9 +682,9 @@ snapshots:
 
   '@types/estree@1.0.5': {}
 
-  '@vitejs/plugin-vue@4.6.2(vite@4.5.3)(vue@3.4.33)':
+  '@vitejs/plugin-vue@4.6.2(vite@4.5.5)(vue@3.4.33)':
     dependencies:
-      vite: 4.5.3
+      vite: 4.5.5
       vue: 3.4.33
 
   '@vue/compiler-core@3.4.33':
@@ -1020,7 +1020,7 @@ snapshots:
 
   tslib@2.6.3: {}
 
-  vite@4.5.3:
+  vite@4.5.5:
     dependencies:
       esbuild: 0.18.20
       postcss: 8.4.39
