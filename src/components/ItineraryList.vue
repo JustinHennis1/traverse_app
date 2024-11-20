@@ -211,9 +211,11 @@
 
   .itineraryList {
   margin-top: 20px;
-  height: 65vh;
-  align-items: flex-end;
-  display: flex;
+  height: 100vh;
+  width: 50vw;
+  align-items: center;
+  display: fit;
+  overflow-y: auto;
   flex-direction: column;
 }
 
